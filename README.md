@@ -1,4 +1,6 @@
 # Nim Game Simulator
+[**Play the Nim Game Simulator**](https://hetvi3012.github.io/Nim-game)
+
 
 
 This is a simple Nim Game Simulator website that I created while learning about the Nim game and its strategies. The project allows users to play a simulated version of the classic Nim game against a computer opponent.
