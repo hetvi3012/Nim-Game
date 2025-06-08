@@ -1,5 +1,5 @@
 # Nim Game Simulator
-[**Play the Nim Game Simulator**](https://hetvi3012.github.io/Nim-game)
+[**Play the Nim Game Simulator**](https://hetvi3012.github.io/Nim-Game)
 
 
 
